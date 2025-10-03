@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hopefully will remember to actually use this later
 
 <!--
 **w3ntry/w3ntry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
